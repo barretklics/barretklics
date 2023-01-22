@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Maven**
 
-- 👯 I’m looking to collaborate on [test](https://www.google.com/)
+<!--- 👯 I’m looking to collaborate on [test](https://www.google.com/)
 
 - 🤝 I’m looking for help with [test2](https://www.google.com/)
 
@@ -20,6 +20,7 @@
 - 📄 Know about my experiences [https://www.google.com/](https://www.google.com/)
 
 - ⚡ Fun fact **BombSlime**
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
