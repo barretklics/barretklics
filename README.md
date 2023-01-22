@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Severed Clans](https://github.com/barretklics/Severed-Clans)
 
-- 🌱 I’m currently learning **Maven**
+- 🌱 I’m currently learning **How to make my GitHub look nice :)**
 
 <!--- 👯 I’m looking to collaborate on [test](https://www.google.com/)
 
